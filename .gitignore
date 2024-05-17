@@ -1,0 +1,5 @@
+# Ignorar carpeta [name]
+carpeta
+
+# Ignorar todos los archivos de texto
+*.txt
